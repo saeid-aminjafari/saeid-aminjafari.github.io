@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Saeid Aminjafari"
+title                    : "About Me"
 title_separator          : "-"
-name                     : &name ""
+name                     : &name "Saeid Aminjafari"
 description              : &description "Hydro-Geodesist, Geospatial data analyst, SAR and InSAR expert, Hydrographic data analyst"
 url                      : https://saeid-aminjafari.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : 
+  name             : "Saeid Aminjafari"
   avatar           : "profile.png"
   bio              : "Hydro-Geodesist, Geospatial data analyst, SAR and InSAR expert, Hydrographic data analyst"
   location         : "Stockholm University, Sweden"
