@@ -16,5 +16,5 @@ It was on my very first flight to Stockholm that the high density of surface wat
 The first two objectives relate to a hydrologic analysis of changes in water occurrence and water levels and their main drivers in the face of climate change. The third objective seeks to tackle remote sensing methodological challenges in hydrologic applications.
 Besides research articles, I am developing a comprehensive data product of water levels in approximately 1000 lakes in Sweden, which I expect to be of high interest to the Swedish Meteorological and Hydrological Institute, among other stakeholders.
 
-Figure 1: The structure of my PhD thesis regarding the main focus, the type EO data used in each study, and the case studies.
+This figure illustrates The structure of my PhD thesis regarding the main focus, the type of satellite data used in each study, and the case studies.
 ![Thesis structure](/images/thesis.png)
