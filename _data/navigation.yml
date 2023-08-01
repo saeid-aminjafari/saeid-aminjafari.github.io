@@ -4,7 +4,10 @@ main:
     url: /publications/  
 
   - title: "Teaching and Supervision"
-    url: /teaching/    
+    url: /teaching/
+
+  - title: "Professional Experiences"
+    url: /jobs/  
 
   - title: "Blog Posts"
     url: /year-archive/
