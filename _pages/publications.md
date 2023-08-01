@@ -5,7 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Published
+## Published:
+*You can also find my published articles on my [Google Scholar profile](https://scholar.google.com/citations?user=efcvlPIAAAAJ&hl=en)*
 
 **Aminjafari, S**., Brown, I., Chalov, S., Simard, M., Lane, C.R., Jarsjö, J., Darvishi, M. and Jaramillo, F., **2021**. Drivers and extent of surface water occurrence in the Selenga River Delta, Russia. Journal of Hydrology: Regional Studies, 38, p.100945. [DOI](https://doi.org/10.1016/j.ejrh.2021.100945)
 
@@ -18,7 +19,7 @@ Soltanpour, A., Pirooznia, M., **Aminjafari, S**. and Zareian, P., **2018**. Per
 **Aminjafari, S**., **2017**. Monitoring of Masjed-Soleiman embankment dam’s deformation using a combination of Interferometric Synthetic Aperture Radar (InSAR) and finite element modeling. Geodesy and Cartography, 43(1), pp.14-21. [DOI](https://doi.org/10.3846/20296991.2017.1299842)
 
 
-## Under Review
+## Under Review:
 
 **Aminjafari, S**., Brown, I., Frappart, F., Papa, F., and Jaramillo, F.,. Improved Temporal Resolution of Altimetry-Derived Lake Water Levels with D-InSAR.
 
