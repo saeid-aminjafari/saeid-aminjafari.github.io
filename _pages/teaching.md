@@ -32,10 +32,10 @@ InSAR (Doris and StaMPS software), Oceanography, Field surveying operations, Rou
 
 ## Master's Students:
 
-**Jenny Frank (Stockholm University)**
+**Jenny Frank (Stockholm University 2022)**
 
 Thesis title: Monitoring Water Area and Hydrological Connectivity in Wetlands Using Sentinel-1 and Sentinel-2 Time series
 
-**TAHMID IMRAN IMON (Stockholm University)**
+**TAHMID IMRAN IMON (Stockholm University 2022)**
 
 Thesis title: A modelling approach to study hydro-dynamics of Ciénaga Grande de Santa Marta, Colombia using ANUGA and InSAR
