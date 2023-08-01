@@ -9,11 +9,11 @@ main:
   - title: "Professional Experiences"
     url: /jobs/  
 
+  - title: "Talks and Conferences"
+    url: /talks/
+
   - title: "Blog Posts"
     url: /year-archive/
-
-  - title: "Talks and Conferences"
-    url: /talks/  
 
   - title: "CV"
     url: /cv/
