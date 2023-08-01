@@ -1,15 +1,13 @@
 ---
-title: "Paper Title Number 3"
+title: "Published Papers"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+excerpt: 
+date: 
+venue: 
+paperurl: 
+citation: 
 ---
-This paper is about the number 3. The number 4 is left for future work.
+Aminjafari, S., Brown, I., Chalov, S., Simard, M., Lane, C.R., Jarsjö, J., Darvishi, M. and Jaramillo, F., 2021. Drivers and extent of surface water occurrence in the Selenga River Delta, Russia. Journal of Hydrology: Regional Studies, 38, p.100945.
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
-
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+[DOI](https://doi.org/10.1016/j.ejrh.2021.100945)
