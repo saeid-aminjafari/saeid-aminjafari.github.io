@@ -1,3 +1,17 @@
+---
+layout: archive
+title: "Teaching and Supervision"
+permalink: /teaching/
+author_profile: true
+---
+
+{% include base_path %}
+
+{% for post in site.teaching reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
+
 ## Courses:
 
 **Advanced Hydrology 7.5 credits (Stockholm University)**
