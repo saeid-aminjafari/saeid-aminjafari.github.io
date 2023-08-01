@@ -1,8 +1,3 @@
----
-title: "Under Review"
-collection: publications
-permalink: /publication/review
----
 
 **Aminjafari, S**., Brown, I., Frappart, F., Papa, F., and Jaramillo, F.,. Improved Temporal Resolution of Altimetry-Derived Lake Water Levels with D-InSAR.
 
