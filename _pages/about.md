@@ -18,3 +18,7 @@ Besides research articles, I am developing a comprehensive data product of water
 
 This figure illustrates The structure of my PhD thesis regarding the main focus, the type of satellite data used in each study, and the case studies.
 ![Thesis structure](/images/thesis.png)
+
+## Personal Interests
+I love comedies (standup and tv shows), and my all-time favorite comedians are Larry David, Ricky Gervais, and Luis C.K. I quote too way often from Seinfeld and Curb Your Enthusiasm! So, I get along well with those team members who respect wood!
+I also love football (soccer), I even had a team in the Swedish amateur league (Korpen) for two seasons (2021-2022 & 2022-2023). Although we never came first, we had a good team.
