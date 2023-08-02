@@ -19,5 +19,5 @@ Baltic Sea Science Congress (Stockholm 2019 & Aarhus 2021 & Helsinki 2023 - in p
 ## Talks:
 Australian Bureau of Meteorology (Melbourne, March 2023 - virtual):  Monitoring Water Levels in Lakes from Space
 
-Surface Water and Ocean Topography (SWOT) Calibration and Validation Group (June 2023 - virtual): Opportunity of Using Existing
+Surface Water and Ocean Topography (SWOT) Calibration and Validation Group (Oct 2022 & June 2023 - virtual): Opportunity of Using Existing
 Gauges Network in Sweden for SWOT Cal/Val.
