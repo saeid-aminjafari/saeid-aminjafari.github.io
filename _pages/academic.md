@@ -1,3 +1,17 @@
+---
+layout: archive
+title: "Academic Experiences"
+permalink: /academic/
+author_profile: true
+---
+
+{% include base_path %}
+
+{% for post in site.academic reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
+
 # Background
 *Please find my CV [here](/images/CV_Aminjafari_20230728)*
 
