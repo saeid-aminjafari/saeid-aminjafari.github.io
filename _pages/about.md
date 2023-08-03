@@ -26,7 +26,7 @@ Well, working in the sea did not amuse me either. Besides, working in the oil in
 ![surveying](/images/phd.jpg)
 
 # Other Interests
-I love comedies (standup and tv shows), and my all-time favorite comedians are Larry David, Ricky Gervais, and Luis C.K. I quote too way often from Seinfeld and Curb Your Enthusiasm! So, I get along well with those team members who respect wood!
+I love comedies (standup and tv shows), and my all-time favorite comedians are Larry David and David Mitchell. I quote too way often from Seinfeld, Peep Show, and Curb Your Enthusiasm! So, I get along well with those team members who respect wood!
 
 I also love football (soccer), I even had a team in the Swedish amateur league (Korpen) for two seasons (2021-2022 & 2022-2023). Although we never came first, we had a good team.
 
