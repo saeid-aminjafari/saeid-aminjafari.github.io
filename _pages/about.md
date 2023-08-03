@@ -13,7 +13,7 @@ Since I did not find my passion on land and did my master’s in marine geodesy 
 # Moving to Academia
 Well, that job did not amuse me either. Besides, working in the oil industry was upsetting, seeing oil spill with the naked eye and ruining the sublime beauty of the sea was not fun at all. However, I realized that a bit of research activity that I had during that job was cool. So, I decided to do a PhD (2019). I liked water, but not as much as you find in the sea, maybe a lake was enough for me. So, hydrology became my topic, and as I like to go high, satellite remote sensing became my tool. It was on my very first flight to Stockholm that the high density of surface water bodies over Sweden attracted my attention. That visual inspection from the airplane’s window, I count as my first attempt at remote sensing of the Swedish lakes. Read about my PhD research here. What I like the most about writing scientific proposals, and applying for grants and funding is the competitive part of it, I feel like I am alive. I also get a feeling of fulfillment and accomplishment when I do research for the good (saving the planet).
 
-![surveying](/images/Surveying.jpg)
+![surveying](/images/phd.jpg)
 
 # Other Interests
 I love comedies (standup and tv shows), and my all-time favorite comedians are Larry David, Ricky Gervais, and Luis C.K. I quote too way often from Seinfeld and Curb Your Enthusiasm! So, I get along well with those team members who respect wood!
