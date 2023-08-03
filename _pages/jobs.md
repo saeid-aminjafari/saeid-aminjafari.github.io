@@ -10,12 +10,18 @@ The most valuable asset that I earned during my professional experience was lear
 
 ## 2014 - 2019
  Geophysical marine surveyor (SEA WORK SURVEY (SWS) EST, Tehran, Iran)
+ 
  Data processor e.g., multibeam echosounder data (SEA WORK SURVEY (SWS) EST, Tehran, Iran)
+ 
  Cartographer (SEA WORK SURVEY (SWS) EST, Tehran, Iran)
+ 
  Researcher (National Cartographic Centre of Iran (NCC))
+ 
  Tide gauge data analysis (National Cartographic Centre of Iran (NCC))
  
 ## 2010-2014
 Land surveying (freelancer)
+
 Leveling (freelancer)
+
 Cartography (freelancer)
