@@ -3,7 +3,7 @@ Like many teenagers, I was full of dreams about the future but had no idea what 
 
 ![surveying](/images/Surveying.jpg)
 
-# Grad studies and the Next Jobs
+# Grad studies and the Next Job
 Since I did not find my passion on land and did my master’s in marine geodesy (2011), I decided to work as a marine surveyor or hydrographer on the sea! It was a bit more fun and adventurous! I got to fly on a chopper (Helicopter), onboard offshore oil rigs, and sail with massive boats! I also did a lot of marine research. Images below show a gas platform on a calm day in the Persian Gulf (can you see the flare?) and one bathymetric image of an offshore gas platform (the four legs of the platform is visible in the middle, some pipeline or debris, and some holes that probably gas bubbles come out of them).
 
 ![surveying](/images/Rig.JPG)
