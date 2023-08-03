@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Saeid Aminjafari"
+title                    : "My Story"
 title_separator          : "-"
 name                     : &name "Saeid Aminjafari"
 description              : &description "Hydro-Geodesist, Geospatial data analyst, SAR and InSAR expert, Hydrographic data analyst"
