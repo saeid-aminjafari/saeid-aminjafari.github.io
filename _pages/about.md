@@ -1,3 +1,13 @@
+---
+permalink: /
+title:
+excerpt: "My Story"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 # Undergrad Studies and the First Job
 Like many teenagers, I was full of dreams about the future but had no idea what I wanted to do with my life when I was 18. I always thought my dad was a great success, so I decided to go to university and study a similar field as my dad’s, i.e. geomatics and surveying (2006). Studying geomatics was fun, but I did not know working in geomatics is not as fun as studying it, just until I started working as a land surveyor in the last year of my studies (2010). I had to carry one of those army-green cameras and walk around (quite a lot) and measure distances and elevations on land. Sometimes in the cities and streets, sometimes inside the buildings, and sometimes in nature and deserts. Soon, I got bored of that job, however, I kept doing it for so many years and even during my master’s studies (2014), but I needed *money* to pay the bills! The picture below clearly shows that I was not happy doing the same thing day in and day out and I did not like my measuring device! I look so much better when I am happier and older (look at my profile picture on the top left)!
 
