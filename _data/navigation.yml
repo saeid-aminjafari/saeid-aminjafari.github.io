@@ -2,15 +2,15 @@
 main:
   - title: "Academic Experiences"
     url: /academic/
-  
+
+  - title: "Professional Experiences"
+    url: /jobs/  
+    
   - title: "Publications"
     url: /publications/  
 
   - title: "Teaching and Supervision"
     url: /teaching/
-
-  - title: "Professional Experiences"
-    url: /jobs/  
 
   - title: "Talks and Conferences"
     url: /talks/
