@@ -1,5 +1,6 @@
 # Background
 *Please find my CV [here](/images/CV_Aminjafari_20230728)*
+
 I am a hydro-geodesist with a knowledge of hydrological sciences, particularly surface hydrology and wetlands. I have been working as a PhD student in the unit of Water, Permafrost, and Environmental Systems at Stockholm University (SU) since 2019. Prior to that, I did my undergraduate and graduate studies in geomatics and marine geodesy, at the Universities of Tafresh and Tehran in Iran, with a strong focus on both theories and applications of remote sensing.
 
 # PhD Thesis: Monitoring Water Availability in Northern Lakes and Deltas from Space
