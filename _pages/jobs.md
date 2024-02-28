@@ -18,6 +18,7 @@ My responsibilities were communication with the client on the procedure at the b
 - Debris removal
 - Writing Daily Progress Reports (DPRs)
 - Writing industry proposals
+  
 *Skills: Qimera · QINSy · Geophysical Surveys · offshore · Multibeam Echosounder Data Processing · AutoCAD*
  
  **Researcher and instructor (National Cartographic Centre of Iran (NCC))**
@@ -25,6 +26,7 @@ My responsibilities were communication with the client on the procedure at the b
 - Tidal modeling and oceanography
 - Satellite altimetry
 - InSAR
+  
 *Skills: Satellite Altimetry · InSAR · Tidal modeling · Oceanography*
  
 ## 2010-2014
