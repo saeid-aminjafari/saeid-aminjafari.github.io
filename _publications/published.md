@@ -1,3 +1,9 @@
+**Aminjafari, S**., Brown, I.,  Frappart, F., Papa, F., Blarel F., Vahidi Mayamey, F., and Jaramillo, F., 2024 (accepted, in production). Distinctive Patterns of Water Level Change in Nordic Lakes Driven by Climate and Human Regulation. Water Resources Research, DOI: 10.1029/2023WR036160
+
+**Aminjafari, S**., Brown, I., Vahidi Mayamey, F., and Jaramillo, F., 2024. Tracking Centimeter-Scale Water Level Changes in Swedish Lakes Using D-InSAR. Water Resources Research, [DOI](https://doi.org/10.1029/2022WR034290)
+
+Jaramillo, F., Aminjafari, S., Castellazzi, P., et al., (2023, preprint & under-review). The Potential of Hydrogeodesy to Address Water-related Problems and Sustainability Challenges. ESS Open Archive. [DOI](https://doi.org/10.22541/au.170379692.29590839/v1)
+
 **Aminjafari, S**., Brown, I., Chalov, S., Simard, M., Lane, C.R., Jarsjö, J., Darvishi, M. and Jaramillo, F., **2021**. Drivers and extent of surface water occurrence in the Selenga River Delta, Russia. Journal of Hydrology: Regional Studies, 38, p.100945. [DOI](https://doi.org/10.1016/j.ejrh.2021.100945)
 
 Darvishi, M., Destouni, G., **Aminjafari, S**. and Jaramillo, F., **2021**. Multi-Sensor InSAR Assessment of Ground Deformations around Lake Mead and Its Relation to Water Level Changes. Remote Sensing, 13(3), p.406. [DOI](https://doi.org/10.3390/rs13030406)
