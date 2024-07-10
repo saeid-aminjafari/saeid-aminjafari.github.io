@@ -12,7 +12,7 @@ European Geosciences Union (EGU) (Vienna 2020-2022 -  - virtual and in person)
 
 European Space Agency (ESA) Living Planet Symposium (LPS) (Edinberg 2013 & Bonn 2022 - in person)
 
-Swedish Climate Symposium (Norrköping 2022 - in person)
+Swedish Climate Symposium (Norrköping 2022 & 2024 - in person)
 
 Baltic Sea Science Congress (Stockholm 2019 & Aarhus 2021 & Helsinki 2023 - in person)
 
