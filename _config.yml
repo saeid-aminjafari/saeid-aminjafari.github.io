@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Aminjafari"
+title                    : "Saeid Aminjafari"
 title_separator          : "-"
 name                     : &name "Saeid Aminjafari"
 description              : &description "Ph.D. in Physical Geography | Earth and Space Scientist | Environmental Researcher | Geospatial data analyst | Hydrologist | Remote Sensing | Machine Learning | GIS | Geodesy | SAR & InSAR | Satellite Altimetry"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Saeid Aminjafari"
+  name             : 
   avatar           : "profile.jpg"
   bio              : "Ph.D. | Earth and Space Scientist | Environmental Researcher | Geospatial data analyst | Remote Sensing"
   location         : "Stockholm University, Sweden"
