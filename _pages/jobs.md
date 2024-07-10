@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Professional Experiences"
+title: "Industry"
 permalink: /jobs/
 author_profile: true
 ---
