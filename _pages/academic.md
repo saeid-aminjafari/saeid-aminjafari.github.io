@@ -2,6 +2,7 @@
 
 
 ---
+layout: archive
 title: "Academic Experiences"
 permalink: /academic/
 author_profile: true
