@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Academic Experiences"
+title: "Academia"
 permalink: /academic/
 author_profile: true
 ---
