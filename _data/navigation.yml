@@ -1,9 +1,9 @@
 # main links links
 main:
-  - title: "Academic Experiences"
+  - title: "Academia"
     url: /academic/
 
-  - title: "Professional Experiences"
+  - title: "Industry"
     url: /jobs/  
     
   - title: "Publications"
