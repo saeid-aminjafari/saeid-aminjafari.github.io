@@ -8,6 +8,8 @@ author_profile: true
 ## Published:
 *You can also find my published articles on my [Google Scholar profile](https://scholar.google.com/citations?user=efcvlPIAAAAJ&hl=en)*
 
+**Aminjafari, S**., Brown, I., and Jaramillo, F., **2024**. Evaluating D-InSAR Performance to Detect Small Water Level Fluctuations in Two Small Lakes in Sweden. Environmental Research Communications. DOI will be made available soon.
+
 **Aminjafari, S**., Brown, I.,  Frappart, F., Papa, F., Blarel F., Vahidi Mayamey, F., and Jaramillo, F., **2024**. Distinctive Patterns of Water Level Change in Swedish Lakes Driven by Climate and Human Regulation. Water Resources Research, [DOI](https://doi.org/10.1029/2023WR036160)
 
 **Aminjafari, S**., Brown, I., Vahidi Mayamey, F., and Jaramillo, F., **2024**. Tracking Centimeter-Scale Water Level Changes in Swedish Lakes Using D-InSAR. Water Resources Research, [DOI](https://doi.org/10.1029/2022WR034290)
@@ -26,10 +28,6 @@ Soltanpour, A., Pirooznia, M., **Aminjafari, S**. and Zareian, P., **2018**. Per
 
 **Aminjafari, S**., **2017**. Monitoring of Masjed-Soleiman embankment dam’s deformation using a combination of Interferometric Synthetic Aperture Radar (InSAR) and finite element modeling. Geodesy and Cartography, 43(1), pp.14-21. [DOI](https://doi.org/10.3846/20296991.2017.1299842)
 
-
-## Under Review:
-
-**Aminjafari, S**., Brown, I., and Jaramillo, F.,. Evaluating D-InSAR Performance to Detect Small Water Level Fluctuations in Lakes.
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
