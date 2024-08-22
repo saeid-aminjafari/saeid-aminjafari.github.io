@@ -16,7 +16,7 @@ author_profile: true
 
 **Aminjafari, S**., Frappart, F., Papa, F., Brown, I., and Jaramillo, F., (**2024**, preprint & under-review). Improved Temporal Resolution of Altimetry-Derived Lake Water Levels with D-InSAR. SSRN Elsevier preprint service, [DOI](https://dx.doi.org/10.2139/ssrn.4883462)
 
-Jaramillo, F., **Aminjafari, S**., Castellazzi, P., et al., (**2023**, will be online soon). The Potential of Hydrogeodesy to Address Water-related Problems and Sustainability Challenges. ESS Open Archive. [DOI](https://doi.org/10.22541/au.170379692.29590839/v1)
+Jaramillo, F., **Aminjafari, S**., Castellazzi, P., et al., (**2024**, will be online soon). The Potential of Hydrogeodesy to Address Water-related Problems and Sustainability Challenges. ESS Open Archive. [DOI](https://doi.org/10.22541/au.170379692.29590839/v1)
 
 **Aminjafari, S**., Brown, I., Chalov, S., Simard, M., Lane, C.R., Jarsjö, J., Darvishi, M. and Jaramillo, F., **2021**. Drivers and extent of surface water occurrence in the Selenga River Delta, Russia. Journal of Hydrology: Regional Studies, 38, p.100945. [DOI](https://doi.org/10.1016/j.ejrh.2021.100945)
 
