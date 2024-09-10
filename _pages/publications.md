@@ -8,7 +8,7 @@ author_profile: true
 ## Published:
 *You can also find my published articles on my [Google Scholar profile](https://scholar.google.com/citations?user=efcvlPIAAAAJ&hl=en)*
 
-**Aminjafari, S**., Frappart, F., Papa, F., Brown, I., and Jaramillo, F., (**2024**, Accepted and in Elsevier's production). Enhancing the Temporal Resolution of Water Levels from Altimetry Using D-InSAR: A Case Study of 10 Swedish Lakes. Science of Remote Sensing, [DOI](https://dx.doi.org/10.2139/ssrn.4883462)
+**Aminjafari, S**., Frappart, F., Papa, F., Brown, I., and Jaramillo, F., (**2024**). Enhancing the Temporal Resolution of Water Levels from Altimetry Using D-InSAR: A Case Study of 10 Swedish Lakes. Science of Remote Sensing, [DOI](https://doi.org/10.1016/j.srs.2024.100162)
 
 **Aminjafari, S**., Brown, I., and Jaramillo, F., **2024**. Evaluating D-InSAR Performance to Detect Small Water Level Fluctuations in Two Small Lakes in Sweden. Environmental Research Communications. [DOI](https://doi.org/10.1088/2515-7620/ad7701).
 
