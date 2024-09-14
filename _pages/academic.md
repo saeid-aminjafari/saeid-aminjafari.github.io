@@ -13,7 +13,7 @@ author_profile: true
 
 
 ## Background
-*Please find my academic CV [here](/images/CV_Aminjafari_20240221_noRef.pdf) and my industry CV [here](/images/CV_Aminjafari_Industry_20240225.pdf)*
+*Please find my academic CV [here](/images/CV_Aminjafari_20240913_noref.pdf) and my industry CV [here](/images/CV_Aminjafari_Industry_20240225.pdf)*
 
 I am a hydro-geodesist with a knowledge of hydrological sciences, particularly surface hydrology and wetlands. I got my PhD in the unit of Water, Permafrost, and Environmental Systems at Stockholm University (SU) in 2023. Prior to that, I did my undergraduate and graduate studies in geomatics and marine geodesy with a strong focus on both theories and applications of remote sensing.
 
