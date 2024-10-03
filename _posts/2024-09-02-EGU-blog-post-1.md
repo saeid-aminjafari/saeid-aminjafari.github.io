@@ -45,11 +45,11 @@ On the other hand, hydropower generation in arid states like Nevada, with histor
 
 Breaking this vicious cycle is a daunting challenge that requires interventions that both address the effects of climate change and the structural vulnerabilities of the hydropower. So, what can be done? This is what they suggest:
 
-Diversify the energy mix beyond solely hydropower solutions.
+- Diversify the energy mix beyond solely hydropower solutions.
 
-Smarter water management strategies, including smarter water conservation and forecasting systems.
+- Smarter water management strategies, including smarter water conservation and forecasting systems.
 
-Climate-resilient infrastructures particularly during low-flow periods.
+- Climate-resilient infrastructures particularly during low-flow periods.
 
 **Epilogue: A Paradox of Power**
 
