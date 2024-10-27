@@ -22,11 +22,11 @@
   <div class="author__urls-wrapper">
     <button class="btn btn--inverse">Follow</button>
     <ul class="author__urls social-icons">
-      {% if author.location %}
-        <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}</li>
-      {% endif %}
       {% if author.employer %}
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.employer }}</li>
+      {% endif %}
+      {% if author.location %}
+        <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}</li>
       {% endif %}
       {% if author.uri %}
         <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].website_label | default: "Website" }}</a></li>
@@ -34,11 +34,11 @@
       {% if author.email %}
         <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].email_label | default: "Email" }}</a></li>
       {% endif %}
-      {% if author.suweb %}
-        <li><a href="{{ author.suweb }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i> Stockholm University Webpage</a></li>
+      {% if author.chalmers %}
+        <li><a href="{{ author.chalmers }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i> Chalmers Webpage</a></li>
       {% endif %}
       {% if author.suweb %}
-        <li><a href="{{ author.chalmers }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i> Chalmers Webpage</a></li>
+        <li><a href="{{ author.suweb }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i> Stockholm University Webpage</a></li>
       {% endif %}
       {% if author.keybase %}
         <li><a href="https://keybase.io/{{ author.keybase }}"><i class="fas fa-fw fa-key" aria-hidden="true"></i> Keybase</a></li>
