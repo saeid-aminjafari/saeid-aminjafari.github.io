@@ -9,5 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
-*Please find my academic CV [here](/images/CV_Aminjafari_20240913_noref.pdf) and my industry CV [here](/images/CV_Aminjafari_Industry_20240225.pdf)*
+*Please find my academic CV [here](/images/CV_Aminjafari_20241015_noref.pdf) and my industry CV [here](/images/CV_Aminjafari_Industry_20241027.pdf)*
 
