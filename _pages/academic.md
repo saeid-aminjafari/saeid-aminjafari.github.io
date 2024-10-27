@@ -13,7 +13,7 @@ author_profile: true
 
 
 ## Background
-*Please find my academic CV [here](/images/CV_Aminjafari_20240913_noref.pdf) and my industry CV [here](/images/CV_Aminjafari_Industry_20240225.pdf)*
+*Please find my academic CV [here](/images/CV_Aminjafari_20241015_noref.pdf) and my industry CV [here](/images/CV_Aminjafari_Industry_20241027.pdf)*
 
 I am currently working as a research accosiate at the Department of Space, Earth, and Environment (SEE), Chalmers University of Technology. I am responsible for a project funded by the Swedish Transport Administration (Trafikverket) to estimate ground motion around and on railroads in Sweden. We use satellite data and space geodesy to estimate these motions as well as hydroclimatic and hydrogeological data to understand the main factors leading to those motions, e.g., frost and thaw, precipitation, soil characteristics, and landslides. I am, also, a hydro-geodesist with a knowledge of hydrological sciences, particularly surface hydrology and wetlands. I got my PhD in the unit of Water, Permafrost, and Environmental Systems at Stockholm University (SU) in 2023. Prior to that, I did my undergraduate and graduate studies in geomatics and marine geodesy with a strong focus on both theories and applications of remote sensing.
 
