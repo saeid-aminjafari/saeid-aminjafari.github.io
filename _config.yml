@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Saeid Aminjafari"
 title_separator          : "-"
 name                     : &name "Saeid Aminjafari"
-description              : &description "Ph.D. in Physical Geography | Earth and Space Scientist | Environmental Researcher | Geospatial data analyst | Hydrologist | Remote Sensing | Machine Learning | GIS | Geodesy | SAR & InSAR | Satellite Altimetry"
+description              : &description "Ph.D. | Physical Geography | Earth, Space, and Environment"
 url                      : https://saeid-aminjafari.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "saeid-aminjafari/saeid-aminjafari.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : 
   avatar           : "profile.jpg"
-  bio              : "Ph.D. | Earth and Space Scientist | Environmental Researcher | Geospatial data analyst | Remote Sensing"
-  location         : "Stockholm University, Sweden"
-  employer         : 
+  bio              : "Ph.D. | Physical Geography | Earth, Space, and Environment"
+  location         : "Stockholm, Sweden"
+  employer         : "Chalmers University of Technology"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=efcvlPIAAAAJ&hl=en"
-  email            : "saeed.aminjafari@gmail.com"
+  email            : "saeid.aminjafari@chalmers.se"
   researchgate     : "https://www.researchgate.net/profile/Saeid-Aminjafari"
   uri              :
   bitbucket        :
@@ -112,6 +112,7 @@ author:
   twitter          : "AminjafariSaeed"
   vine             :
   suweb            : "https://www.su.se/english/profiles/saam7695-1.417160"
+  chalmers         : "https://www.chalmers.se/en/persons/saeidam/"
   xing             :
   youtube          :
   wikipedia        :
