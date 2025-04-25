@@ -1,3 +1,4 @@
+```mermaid
 flowchart TD
   A[Data Preparation] --> B[Short-Arc Signal Decomposition]
   B --> C[Feature Engineering]
