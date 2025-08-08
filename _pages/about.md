@@ -12,7 +12,8 @@ redirect_from:
 Current Mission:
 
 I am the Principal Investigator (PI) of a project funded by the Swedish National Space Agency (Rymdstyrelsen) to establish a national-scale, satellite-based monitoring system for Sweden’s surface water dynamics. Read more about the poject [here](https://saeid-aminjafari.github.io/academic/). In this project, which is a collboration between Stockholm University and the University of Michigan, I intend to integrate Earth Observations (EO) for enhancing Sweden's national water security under climate change. The project uses high-resolution data from recent EO missions including Surface Water and Ocean Topography (SWOT), Ice, Cloud, and land Elevation Satellite-2 (ICESat-2), and NASA-ISRO Synthetic Aperture Radar (NISAR), to quantify river flow, water extent, elevation, and storage.
-Also, I am a postdoctoral associate at Chalmers technical University, Department of Space, Earth and Environment in Gothenburg, Sweden. I am responsible for a project funded by the Swedish Transport Administration (Trafikverket) to estimate ground motion around and on railroads in Sweden. I use satellite data and space geodesy to estimate these motions as well as hydroclimatic and hydrogeological data to understand the main factors leading to those motions, e.g., frost and thaw, precipitation, soil characteristics, and landslides.
+
+Also, I am a postdoctoral associate at Chalmers Technical University, Department of Space, Earth and Environment in Gothenburg, Sweden. I am responsible for a project funded by the Swedish Transport Administration (Trafikverket) to estimate ground motion around and on railroads in Sweden. I use satellite data and space geodesy to estimate these motions as well as hydroclimatic and hydrogeological data to understand the main factors leading to those motions, e.g., frost and thaw, precipitation, soil characteristics, and landslides.
 
 PhD:
 
