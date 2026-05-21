@@ -13,7 +13,7 @@ author_profile: true
 
 
 ## Background
-*Please find my academic CV [here](/images/CV_Aminjafari_Acdemic_20250329.pdf) and my industry CV [here](/images/CV_Aminjafari_Industry_20250329.pdf)*
+*Please find my academic CV [here](/images/CV_Aminjafari_Acdemic_20260521.pdf) and my industry CV [here](/images/CV_Aminjafari_Industry_20250329.pdf)*
 
 I am the Principal Investigator (PI) of a project funded by the Swedish National Space Agency (Rymdstyrelsen) to establish a national-scale, satellite-based monitoring system for Sweden’s surface water dynamics. In this project, which is a collboration between Stockholm University and the University of Michigan, I intend to use Earth Observations (EO) for enhancing national water security under climate change. The project uses high-resolution data from recent EO missions including Surface Water and Ocean Topography (SWOT), Ice, Cloud, and land Elevation Satellite-2 (ICESat-2), and NASA-ISRO Synthetic Aperture Radar (NISAR), to quantify river flow, water extent, elevation, and storage.
 
