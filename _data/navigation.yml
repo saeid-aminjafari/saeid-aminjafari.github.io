@@ -2,9 +2,8 @@
 main:
   #- title: "Academia"
   #  url: /academic
-  - title: "Industry"
-    url: /jobs/  
-    
+  #- title: "Industry"
+  #  url: /jobs/   
   - title: "Publications"
     url: /publications/  
 
