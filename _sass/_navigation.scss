@@ -429,7 +429,7 @@
       display: block;
     }
   }
-
+}
 /* current page in the masthead */
 .greedy-nav .visible-links li.active > a,
 .greedy-nav .hidden-links li.active > a {
@@ -441,5 +441,4 @@
   -webkit-transform: scaleX(1);
       -ms-transform: scaleX(1);
           transform: scaleX(1);
-}
 }
