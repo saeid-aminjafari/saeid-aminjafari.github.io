@@ -12,7 +12,12 @@ author_profile: true
 {% endfor %}
 
 
-## Courses:
+## Departmental duties:
+
+**International Environmental Management (Stockholm University)**
+Lecturer and seminar convener in module on transboundary rivers and hydropower dams
+
+**Master's thesis assessor, remote sensing, (Stockholm University)**
 
 **Advanced Hydrology 7.5 credits (Stockholm University)**
 
