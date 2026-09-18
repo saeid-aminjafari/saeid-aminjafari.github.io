@@ -3,6 +3,7 @@ layout: archive
 title: "Academia"
 permalink: /academic/
 author_profile: true
+published: false
 ---
 
 {% include base_path %}
