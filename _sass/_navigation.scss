@@ -429,4 +429,17 @@
       display: block;
     }
   }
+
+/* current page in the masthead */
+.greedy-nav .visible-links li.active > a,
+.greedy-nav .hidden-links li.active > a {
+  color: $masthead-link-color-hover;
+  font-weight: bold;
+}
+
+.greedy-nav .visible-links li.active > a:before {
+  -webkit-transform: scaleX(1);
+      -ms-transform: scaleX(1);
+          transform: scaleX(1);
+}
 }
